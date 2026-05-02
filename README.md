@@ -38,8 +38,8 @@ TBA
 ## 🌐 Official Links
 
 * Website: (add your link)
-* Telegram: (add your link)
-* X (Twitter): (add your link)
+* Telegram: (https://t.me/DojoDogToken)
+* X (Twitter): (https://x.com/DojoSolHQ)
 
 ---
 
